@@ -1,4 +1,4 @@
-#  Hey there 👋:
+# Hey there 👋:
 I'm Albert Antony, a future data analyst currently diving deep into 🧠 AI & 📊 Data Science at Achariya CET.<br>I speak 🐍 Python (for now) and I'm on a mission to master 🧮 Excel, 📈 Power BI, 🗄️ MySQL & 📊 Tableau.<br>🛠️ Mini project in progress — big dreams loading... 🚀
 
 
