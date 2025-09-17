@@ -1,4 +1,4 @@
-#  About Me‼️✨:
+#  About Me‼️✨
 I’m S. Albert Antony, a B.Tech student in Artificial Intelligence and Data Science with a strong interest in data analytics and emerging technologies. My goal is to become a data analyst at Microsoft, and I’m actively building my skills in Python, statistics, and data visualization.<br><br>I’ve gained hands-on experience through a data analysis internship, where I applied classroom concepts to real-world datasets and strengthened my technical and problem-solving abilities. I’ve also developed confidence and communication skills by presenting in hackathons and club activities.<br><br>Outside academics, I’m passionate about football and draw inspiration from athletes like Cristiano Ronaldo for discipline and persistence. I’m currently focused on improving my fitness, grooming, and overall confidence while expanding my technical expertise.
 
 
